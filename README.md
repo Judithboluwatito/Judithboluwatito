@@ -1,10 +1,8 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-
 <h1 align="center">Hi 👋, I'm Judith </h1>
-<h3 align="center">A Passionate Data Science professional from BENIN, with expertise in Deep Learning, NLP, and AI, committed to making impactful contributions to these fields</h3>
+<h3 align="center">A Data Science professional from BENIN</h3>
 <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/212/212413.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=judithboluwatito&label=Profile%20views&color=0e75b6&style=flat" alt="judithboluwatito" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=judithboluwatito" alt="judithboluwatito" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/jbillyrose" target="blank"><img src="https://img.shields.io/twitter/follow/jbillyrose?logo=twitter&style=for-the-badge" alt="jbillyrose" /></a> </p>
 
