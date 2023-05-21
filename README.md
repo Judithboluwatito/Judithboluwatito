@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Judith </h1>
-<h3 align="center">A Data Science professional from BENIN</h3>
+<h3 align="center">A Data Scientistl from BENIN</h3>
 <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/212/212413.gif">
 
 
